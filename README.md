@@ -7,13 +7,16 @@
 
 ## clone现有代码
 
-`git clone https://github.com/icsnju/apt-blog.git`
+```
+git clone https://github.com/icsnju/apt-blog.git
+```
 
 ## 安装依赖包
 
-`cd apt-blog`
-
-`npm install`
+```
+cd apt-blog
+npm install
+```
 
 ## 添加、修改内容
 
